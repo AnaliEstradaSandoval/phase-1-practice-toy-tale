@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Homer ",
+      "image": "file:///C:/Users/17029/Desktop/Personal/18a5c624814d1fee69692841d2f92e89ad-21-homer-bushes-lede.rhorizontal.w600.webp",
+      "likes": 15,
+      "id": 9
     }
   ]
 }
